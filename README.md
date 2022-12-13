@@ -42,4 +42,4 @@ Analysis found that total household energy consumption in the United States is d
 
 3. Cluster analysis revealed that temperature does have a significant impact on total household energy consumption with colder locations experiencing higher total household energy consumption compared to warmer locations. In the United States, northern states experience colder temperatures and have higher energy consumption than southern states that experience warmer temperatures.
 
-[Final Tableau Presentation]([https://www.eia.gov/consumption/residential/data/2015/index.php?view=methodology](https://public.tableau.com/views/RECSAnalysis/USHouseholdEnergyConsumptionAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link))
+[Final Tableau Presentation](https://public.tableau.com/views/RECSAnalysis/USHouseholdEnergyConsumptionAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
