@@ -3,7 +3,7 @@
 
 ## Objective
 
-The purpose of the analysis was to analyze data collected from the 2015 Residential Energy Consumption Survey and identify key factors that impact household energy consumption.  Main analysis questions included:
+Analyze data collected from the 2015 Residential Energy Consumption Survey and identify key factors that impact total household energy consumption.  Main analysis questions included:
  
 1. What are the primary end uses for household energy consumption? 
 2. What factors have the strongest relationship with total household energy consumption? 
