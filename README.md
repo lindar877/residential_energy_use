@@ -16,6 +16,7 @@ The purpose of the analysis was to analyze data collected from the 2015 Resident
 Data for the analysis was obtained from the 2015 Residential Energy Consumption Survey (RECS) conducted by the U.S. Energy Information Administration (EIA).
 
 [Data Set](https://www.eia.gov/consumption/residential/data/2015/index.php?view=microdata)
+
 [Technical Documentation](https://www.eia.gov/consumption/residential/data/2015/index.php?view=methodology)
 
 ## Analysis Tools
